@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "5feee17c13962e1f0d09d6d6"
+  },
+  "post_title": "freshworks assignment 2021",
+  "data_title": "['Freshworks NOSQL ASSIGNEMNT NEW']",
+  "tags": [
+    "tag1",
+    "tag2",
+    "tag3",
+    "tag4",
+    "tag5"
+  ],
+  "user_details": {
+    "first_name": "Kishore R",
+    "last_name": "Wolfe R"
+  }
+}]
